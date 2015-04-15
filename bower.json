@@ -1,0 +1,25 @@
+{
+  "name": "angular.sorting",
+  "version": "0.0.0",
+  "authors": [
+    "nerdfiles <nerdfiles@gmail.com>"
+  ],
+  "description": "Graham scanning extended to 3D dimensional space through stochastic Villard statistical normalizations.",
+  "keywords": [
+    "villard",
+    "grid",
+    "system",
+    "3d",
+    "molecular",
+    "approximations"
+  ],
+  "license": "WTFPL",
+  "homepage": "http://github.com/nerdfiles/angular.sorting",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
